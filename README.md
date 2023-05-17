@@ -1,5 +1,5 @@
 # scrum-guide-mindmap
-A mind map for studying the Scrum guide. 2022
+A mind map to summarize the Scrum guide for studying. 2022
 
 [The map is available on Miro. Click here to open the map on Miro](https://miro.com/app/board/uXjVPMtdHeE=/)
 
